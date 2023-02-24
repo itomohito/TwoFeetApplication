@@ -5,7 +5,7 @@ The project was mainly written in Kotlin. It has no outer Database connections, 
 to downlaod any applications.
 
 - In order to download the project follow the next steps:
-- Choose "main" state.
+- Choose "main" branch
 - Download all ti=he files in zip format
 - Unzipit on your pc
 
